@@ -1,2 +1,2 @@
 # Detecting-Eyes
-Detecting eyes in an image using OpenCV Haar Cascade Classifiers
+Detecting Face and eyes using Haar Cascade Classifiers.
